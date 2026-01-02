@@ -4,3 +4,4 @@ def data():
         print(range)
         print()
 print(data())
+print("hello wroldd")
